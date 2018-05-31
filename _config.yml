@@ -1,13 +1,15 @@
-title: evan's blog
-author: evan
+title: Evan's blog
+author: Evan
 email: lifan1994@outlook.com
 description: > # this means to ignore newlines until "twitter_username:"
   Everthing about evan!
+  Reading, Bodybuilding, Coding, Sharing
+  Everything does not kill me simply makes me stronger
 
 # social links
 # twitter_username: evan
 github_username:  evan4C
-# rss: rss
+rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
