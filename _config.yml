@@ -2,12 +2,12 @@ title: Evan's blog
 author: Evan
 email: lifan1994@outlook.com
 description: > # this means to ignore newlines until "twitter_username:"
-  Everything does not kill me simply makes me stronger
+  永远在成长，永远在学习
 
 # social links
 # twitter_username: evan
 github_username:  evan4C
-rss: rss
+# rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -26,6 +26,8 @@ rss: rss
 
 
 show_excerpts: false # set to true to show excerpts on the homepage
+
+show_drafts: true
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
